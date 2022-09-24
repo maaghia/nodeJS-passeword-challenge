@@ -1,0 +1,6 @@
+maria : mariapwd
+moe : moepwd
+amine : aminepwd
+djeff : djeffpwd
+user : myPassword
+user : myPassword
